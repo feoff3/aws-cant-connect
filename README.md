@@ -1,6 +1,6 @@
 # AWS Can't Connect
 Online diagnostic tools for your AWS instances.  
-**[Click to securely diagnose your AWS instances online.](https://feoff3.github.io/aws-cant-connect/)**
+**[Try: click to securely diagnose your AWS instances online.](https://feoff3.github.io/aws-cant-connect/)**
 
 
 ## What it does?
